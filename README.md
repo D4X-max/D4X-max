@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%20there,%20I'm%20Dhruv%20Srijit!%20👋&fontSize=36&fontAlignY=40" alt="header"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=AI/ML Enthusiast;Cybersecurity Engineer+Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
-</p>**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=AIML Enthusiast;CyberSecurity+eng;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 # 👋 Hi there, I'm Dhruv Srijit
 
