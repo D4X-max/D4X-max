@@ -29,10 +29,6 @@ TensorFlow | PyTorch | Flask | React | Node.js | MongoDB | XAMPP
 Git | Docker | Azure | Linux
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-</p>
----
 ### 🌱 Currently Exploring
 
 DevOps | GANs | Retrieval-Augmented Generation (RAG) | AI Agents & Agentic AI | Ethical Hacking
@@ -49,3 +45,7 @@ DevOps | GANs | Retrieval-Augmented Generation (RAG) | AI Agents & Agentic AI | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Srijit-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-srijit-742b751b2/)  
 📧 dhrvsrijit@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
