@@ -37,6 +37,10 @@ DevOps | GANs | Retrieval-Augmented Generation (RAG) | AI Agents & Agentic AI | 
 🔍 Check out my repositories below to see the projects I've been working on!
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+%7C+AIML+Enthusiast;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+</p>
+---
 
 ### 📫 Let's Connect
 
