@@ -1,4 +1,4 @@
-[10:09 PM, 6/29/2025] Brown Bro: <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%20there,%20I'm%20Dev%20Srijit!%20👋&fontSize=36&fontAlignY=40" alt="header"/>
 </p>
 <p align="center">
