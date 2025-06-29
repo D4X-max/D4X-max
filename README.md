@@ -5,8 +5,9 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=Machine%20Learning%20Enthusiast;UI%2FUX%20Designer;AIML%20Explorer;Lifelong%20Learner%20%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=Machine%20Learning%20Enthusiast;Problem%20Solver;Cybersecurity%20Enthusiast" alt="Typing SVG" />
 </p>
+
 
 
 # 👋 Hi there, I'm Dhruv Srijit
