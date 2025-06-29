@@ -1,9 +1,13 @@
-** <p align="center">
+<!-- Profile Animated Header -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%20there,%20I'm%20Dhruv%20Srijit!%20👋&fontSize=36&fontAlignY=40" alt="header"/>
 </p>
+
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=Machine Learning+Enthusiast;UI%2FUX+%7C+AIML+Enthusiast;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=500&lines=Machine%20Learning%20Enthusiast;UI%2FUX%20Designer;AIML%20Explorer;Lifelong%20Learner%20%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 
 # 👋 Hi there, I'm Dhruv Srijit
 
