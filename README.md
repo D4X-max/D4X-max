@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dhruv Srijit
 
-<!--
-**D4X-max/D4X-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a student at Manipal Institute of Technology, Bengaluru, passionate about Machine Learning, Software Engineering, and Cybersecurity.  
+💡 I aim to build impactful real-world solutions through reproducible and robust software and models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:**  
+Python | C++ | Java | SQL
+
+**Frameworks & Libraries:**  
+TensorFlow | PyTorch | Flask | React | Node.js | MongoDB | XAMPP
+
+**Tools & Platforms:**  
+Git | Docker | Azure | Linux
+
+---
+
+### 🌱 Currently Exploring
+
+DevOps | GANs | Retrieval-Augmented Generation (RAG) | AI Agents & Agentic AI | Ethical Hacking
+
+---
+
+### 📂 Projects
+
+🔍 Check out my repositories below to see the projects I've been working on!
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv%20Srijit-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-srijit-742b751b2/)  
+📧 dhrvsrijit@gmail.com
