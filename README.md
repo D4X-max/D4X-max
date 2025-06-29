@@ -22,7 +22,10 @@ TensorFlow | PyTorch | Flask | React | Node.js | MongoDB | XAMPP
 Git | Docker | Azure | Linux
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
+---
 ### 🌱 Currently Exploring
 
 DevOps | GANs | Retrieval-Augmented Generation (RAG) | AI Agents & Agentic AI | Ethical Hacking
