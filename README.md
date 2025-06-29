@@ -1,7 +1,9 @@
 [10:09 PM, 6/29/2025] Brown Bro: <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%20there,%20I'm%20Dev%20Srijit!%20👋&fontSize=36&fontAlignY=40" alt="header"/>
 </p>
-[10:09 PM, 6/29/2025] Brown Bro: Banner 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+%7C+AIML+Enthusiast;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 # 👋 Hi there, I'm Dhruv Srijit
 
@@ -36,10 +38,6 @@ DevOps | GANs | Retrieval-Augmented Generation (RAG) | AI Agents & Agentic AI | 
 
 🔍 Check out my repositories below to see the projects I've been working on!
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;UI%2FUX+%7C+AIML+Enthusiast;Lifelong+Learner+%E2%9C%A8" alt="Typing SVG" />
-</p>
 ---
 
 ### 📫 Let's Connect
