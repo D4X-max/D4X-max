@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-Python | C++ | Java | SQL
+Python | C++ | Java | SQL | Javascript
 
 **Frameworks & Libraries:**  
 TensorFlow | PyTorch | Flask | React | Node.js | MongoDB | XAMPP
